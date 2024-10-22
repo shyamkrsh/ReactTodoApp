@@ -1,0 +1,28 @@
+body{
+    background-color: #000;
+    color: #fff;
+}
+#taskInput{
+    height: 2.2rem;
+    width: 35ch;
+    padding-left: 1rem;
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    color: #000;
+}
+.list{
+    border: 1px solid #fff;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 44ch;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+}
+.delbtn{
+    background-color: #fff !important;
+    color: #000 !important;
+}
